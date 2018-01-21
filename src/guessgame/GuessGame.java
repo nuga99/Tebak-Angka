@@ -69,7 +69,7 @@ public class GuessGame {
             }
             else{
                 
-                System.out.println("All playes will have to try again.");
+                System.out.println("Ulang, tidak ada yang menang.");
             }
         }
         
